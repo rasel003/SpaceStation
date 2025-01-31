@@ -54,11 +54,3 @@ There are two main ways to clone the repository:
     * Check the Gradle files (`build.gradle`) for any errors.
 * **Emulator Issues:** If you have problems with the emulator, try creating a new emulator or restarting the existing one.
 * **Other Issues:** If you encounter other issues, please refer to the Android Studio documentation, Firebase documentation, the API documentation, or search online forums for solutions.
-
-## Contributing
-
-If you'd like to contribute to this project, please open an issue or submit a pull request.  See the `CONTRIBUTING.md` file (if it exists) for more details.
-
-## License
-
-[Specify the license under which the project is distributed.  For example: MIT License, Apache License 2.0, etc.]
