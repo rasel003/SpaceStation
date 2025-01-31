@@ -1,7 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.SpaceStation" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+    <!--Final, top-level theme-->
+    <style name="Theme.App.DayNight" parent="Theme.App.Dark"/>
+
+    <style name="Theme.App.Dark" parent="Theme.App">
+        <!--Color-->
+        <item name="colorPrimary">@color/app_blue_200</item>
+        <item name="colorPrimaryVariant">@color/app_blue_300</item>
+        <item name="colorSecondary">@color/app_orange_300</item>
+        <item name="colorSecondaryVariant">@color/app_orange_300</item>
+
+        <item name="android:colorBackground">@color/app_black_900</item>
+        <item name="colorSurface">@color/app_black_800</item>
+        <item name="colorPrimarySurfaceVariant">?attr/colorSurface</item>
+        <item name="textColorDefault">@color/white</item>
+        <item name="colorError">@color/app_red_200</item>
+
+        <item name="colorOnPrimary">@color/app_black_900</item>
+        <item name="colorOnSecondary">@color/app_black_900</item>
+        <item name="colorOnBackground">@color/app_white_50</item>
+        <item name="colorOnSurface">@color/app_white_50</item>
+        <item name="colorOnError">@color/app_black_900</item>
+
+        <item name="scrimBackground">@color/app_black_900_alpha_087</item>
+        <item name="android:statusBarColor">@color/app_black_900_alpha_060</item>
+
+        <item name="elevationOverlayEnabled">true</item>
+
+        <!--System/Platform attributes-->
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
     </style>
+
 </resources>

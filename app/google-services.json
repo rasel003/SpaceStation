@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "359089144804",
+    "project_id": "android-baseapp-5a8e7",
+    "storage_bucket": "android-baseapp-5a8e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359089144804:android:768023615554a37ae5fdf1",
+        "android_client_info": {
+          "package_name": "com.rasel.androidbaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359089144804-mgh41u96gah6v6e39s6vopi0vbrcdfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXK_maASN1f4Ry6w6QDDVbG3H0Zo_ZFWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359089144804-mgh41u96gah6v6e39s6vopi0vbrcdfhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359089144804:android:a6b01c1d86e83203e5fdf1",
+        "android_client_info": {
+          "package_name": "com.rasel.spacestation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359089144804-mgh41u96gah6v6e39s6vopi0vbrcdfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXK_maASN1f4Ry6w6QDDVbG3H0Zo_ZFWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359089144804-mgh41u96gah6v6e39s6vopi0vbrcdfhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

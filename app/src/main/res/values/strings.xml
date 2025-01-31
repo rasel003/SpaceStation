@@ -1,3 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
+
     <string name="app_name">SpaceStation</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_character_list">Characters</string>
+
+    <string name="no_space_station_data_found">Failed to load, Space station data</string>
+
+    <string name="resizable_text_read_more">\nread more</string>
+    <string name="resizable_text_read_less">\nread less</string>
+    <string name="recommended">Recommended</string>
+    <string name="see_all">See All</string>
+    <string name="per_day">/Per Day</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="default_web_client_id">359089144804-mgh41u96gah6v6e39s6vopi0vbrcdfhq.apps.googleusercontent.com</string>
+    <string name="n_a">N/A</string>
+    <string name="lat_and_long">Lat and Long</string>
+    <string name="utc_time">UTC Time</string>
+    <string name="local_time">Local Time</string>
+    <string name="space_station_info">Space Station Info</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="refresh">Refresh</string>
+    <string name="something_went_wrong_please_try_again">Something went wrong, Please try again</string>
+    <string name="logout">Logout</string>
+    <string name="country_or_region">Country or Region</string>
+    <string name="failed_to_get_country">Not above any country</string>
 </resources>
